@@ -1,4 +1,4 @@
-# quantum annealing and information processing of statistical mechanics
+# Quantum annealing and information processing of statistical mechanics
 
 The followings are a summary of codes for using quantum annealing.  
 These will be published in a textbook of "quantum annealing and information processing of statistical mechanics" on early 2020.  
