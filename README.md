@@ -1,23 +1,22 @@
 # quantum annealing and information processing of statistical mechanics
 
-The followings are a summary of codes for using quantum annealing. 
-These will be published in a textbook of "quantum annealing and information processing of statistical mechanics" on early 2020.
+The followings are a summary of codes for using quantum annealing.  
+These will be published in a textbook of "quantum annealing and information processing of statistical mechanics" on early 2020.  
 If you find any problems while checking the following codes, please tell me from issues.
 [issues](https://github.com/mohzeki222/quantum_annealing/issues) 
 
 ## From a collection Karp NP-complete problems
 
-You can see the following codes through the nbviewer: [nbviewer](https://nbviewer.jupyter.org)
-In addition, you can run the following codes through the Google Colaboratory: [Google Colaboratory](https://colab.research.google.com/)
-
-Please install pyqubo and openjij in your environment or in Google Collaboratory:
+You can see the following codes through the nbviewer: [nbviewer](https://nbviewer.jupyter.org)  
+In addition, you can run the following codes through the Google Colaboratory: [Google Colaboratory](https://colab.research.google.com/)  
+  
+Please install pyqubo and openjij in your environment or in Google Collaboratory:  
 ```
 pip install pyqubo
 pip install openjij
 ```
-pyqubo is a good tool for implementing the Ising model from the form of equation provided by the Recruit Communications Co. Ltd.
-openjij is a labirary for simulating the simulated annealing, quantum annealing and various methods in statistical mechanics provided by the Jij Inc.
-
+pyqubo is a good tool for implementing the Ising model from the form of equation provided by the Recruit Communications Co. Ltd.  
+openjij is a labirary for simulating the simulated annealing, quantum annealing and various methods in statistical mechanics provided by the Jij Inc.  
 
 index |title |nbviewer|Open in Colab|
 -----|--------|--------|-------------|
